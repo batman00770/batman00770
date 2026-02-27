@@ -1,5 +1,5 @@
-# 💫 About Me:
-i am currently a btech 3 year undergrad in cse , Hi, I'm Kavyansh Vyas 👋<br>I'm a backend developer with a passion for building things that actually solve problems. I work primarily with C++ and MongoDB, and I enjoy designing efficient systems and clean backend logic.<br>I've built projects ranging from a personal file organizer to ZenSpace — a mental well-being companion for university students that I co-built as part of my academic journey. It was a meaningful experience that taught me as much about product thinking as it did about engineering.<br>Right now I'm deepening my skills in Machine Learning and Data Structures & Algorithms — I believe strong fundamentals are what separate good developers from great ones.<br>Always building. Always learning.<br>
+# 💫 About me:
+Hi, I'm Kavyansh Vyas 👋<br>I'm a backend developer with a passion for building things that actually solve problems. I work primarily with C++ and MongoDB, and I enjoy designing efficient systems and clean backend logic.<br>I've built projects ranging from a personal file organizer to ZenSpace — a mental well-being companion for university students that I co-built as part of my academic journey. It was a meaningful experience that taught me as much about product thinking as it did about engineering.<br>Right now I'm deepening my skills in Machine Learning and Data Structures & Algorithms — I believe strong fundamentals are what separate good developers from great ones.<br>Always building. Always learning.<br>
 
 
 ## 🌐 Socials:
